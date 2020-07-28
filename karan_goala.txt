@@ -1,0 +1,16 @@
+<span id="a">karangoala</span>:<span id="b">~</span><span id="c">$</span> cd myFiles/personal_portfolio
+<span id="a">karangoala</span>:<span id="b">~</span><span id="c">$</span> open portfolio.txt<br/>
+"<span id="k">welcome to terminal</span>".
+
+Hello World! I am Karan Goala.
+<p>I am currently a final year electrical engineering student of National Institute of technology, Silchar.</p>
+<p> I am usually found near a computer or any electronic gadget which has broken down. Apart from all the geeky stuff, I love playing soccer(not video game) and clicking pictures of the natural sceneries in my campus.</p>
+<p> I can write code in C++, JavaScript, python and 8085 assembly language. My code can be found on my GitHub page (link is provided below). I have also worked with MATLAB and Simulink. I am passionate about solving programming challenges and building electronic projects. So far, I have done a number of personal projects which were mostly electronics based. I have worked with arduino, esp8266 and basic electronic components. Currently, I am working on a few projects which include web-apps.<br>
+<p> Feel free to reach me out at: <br> 
+<a href="www.linkedin.com/in/karan-goala-58a6ba160">LinkedIn</a> <br> 
+<a href="https://github.com/karangoala-dev">GitHub</a> <br> 
+<a href="https://www.hackerrank.com/karangoala">HackerRank</a>.</p>
+<p>
+You can also mail me at : karan_ug@ee.nits.ac.in.
+</p>
+<p>Thanks for visiting!</p>
