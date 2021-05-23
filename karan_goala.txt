@@ -11,6 +11,6 @@ Hello World! I am Karan Goala.
 <a href="https://github.com/karangoala-dev">GitHub</a> <br> 
 <a href="https://www.hackerrank.com/karangoala">HackerRank</a>.</p>
 <p>
-You can also mail me at : karan_ug@ee.nits.ac.in.
+You can also mail me at : karangoala@gmail.com
 </p>
 <p>Thanks for visiting!</p>
